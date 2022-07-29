@@ -1,0 +1,23 @@
+{
+    "display": {
+        "title": {
+            "text": "Scoreboard changer"
+        },
+        "description": {
+            "text": "Usage: /trigger [Deaths, Kills, Diamonds]"
+        },
+        "icon": {
+            "item": "minecraft:wither_rose"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "exist": {
+            "trigger": "minecraft:tick"
+        }
+    },
+    "parent": "unlucky:root"
+}

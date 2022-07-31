@@ -4,7 +4,7 @@
             "text": "Scoreboard changer"
         },
         "description": {
-            "text": "Usage: /trigger [Deaths, Kills, Diamonds]"
+            "text": "Usage: /trigger [Deaths, Kills, Diamonds, Kevin, OP, Netherite, Fishing, Crafting, Chests, Trades]"
         },
         "icon": {
             "item": "minecraft:wither_rose"
